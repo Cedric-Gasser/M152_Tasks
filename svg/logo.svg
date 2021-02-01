@@ -90,11 +90,17 @@
     <path
        style="fill:#999999;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 70.86889,0 82.85129,25.51961 54.7432,20.36057 Z"
-       id="path14" />
+       id="path14"> 
+       <animateMotion dur="2s" 
+       values="-50,-8; 0,0" 
+       repeatCount="1" /> </path>
     <path
        style="fill:#999999;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 92.71811,50.76527 105.26756,79.40174 72.30668,67.01182 Z"
-       id="path16" />
+       id="path16"> 
+       <animateMotion dur="2s" 
+       values="-20,17; 0,0" 
+       repeatCount="1" /> </path>
     <path
        style="fill:#000000;fill-opacity:0.149879;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 48.65556,34.72436 36.43471,7.37488 2.39157,-1.63777 -43.77001,-8.15516 z"
