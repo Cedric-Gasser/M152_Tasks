@@ -1,7 +1,15 @@
 main {
-
+  margin: auto;
+  width: fit-content;
 }
 
 img {
-  width: 800px;
+  width: 100%;
+}
+
+div {
+  float: left;
+  border: 2px solid;
+  border-radius: 10px;
+  width: 900px;
 }
